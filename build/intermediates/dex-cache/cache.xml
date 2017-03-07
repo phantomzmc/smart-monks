@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_1c06c06dd5a779a538b183a1588750b35c84eac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_0a210e446765c5fd2f7fafcd79cb4b67beac3b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_6081cf3862d84a877d07255cd59a82c9993a952c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_1cb1da25f48b3d9406ed25b82be30d131de66847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_b4913ec249dd738f82c9a2a25f8a9cae45669def.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.1_1f50ce809627acd72f77fd7d44a5dba63250f749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.1_fe2cd959f3c790420df68b21a6b4717f772907ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.1_92a1d94684f3665230cc26e3aae311a096765080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_3516a9c34069e3469f99453e127b722748a03599.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_ff0eee93147ece7d2ebbe4ea272f3cd052e64343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_61151b8e4a9b0c3ff3d70dc3c885d6e6396fd771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.1_4a7d45a5a00dc77731dc01c430f1daac856cbfdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_e3b44483526dae19b3088017ae4c76a897a133f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_ad1a052e0db5b51a1fdc4cc36a4c5d10f2e7fabc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_a5459d34816198d5d5230235cc880976c6fef141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_59c1e2d8509e21a12aad24d274de3622ab1c2164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_408a0d91cf65a9b31106a583f0665eac3a78e641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9cee59f22d4acbf9cd74a711236507949c44ec84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_0ff3442431a1187a707fa43e79ff928d16596412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.20.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.20.0_bbc6214e786a052486f066eb9fd1794326a6c5f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_c8a6777d0cc889642059feef95debd445283598a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.1_8c664b8cb954dceb07ed09c9006a42cc4e2e0639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.github.GrenderG/Toasty/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa13c67643afa4a5f7353095eb7fb985d55a18e1">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.github.GrenderG-Toasty-1.1.3_b438b48dde066a66e0c64bcf33764a163e34bcf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_120ffcf1c1dd474165e54935d75056e8c468455c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.1_e5cc30d9e82d87d51f40b56a0920987377139150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_2f8417a13724dd0710df81f20cdede45da7adfae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.1_3502c61854ebc5516514b75d34de00a4016c8e4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_07ba2f2c1adccb7f51284e956a951f9c86020389.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.0.0_88febf06f68430c5d1463f0ed184385717f932c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.1_6292299ed72d4086df03ac9df324573031119cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/thannathrnyuwasin/AndroidStudioProjects/NewIT/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_4e7cf56e8d992f6ca703362b1aa392a969d8606e.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "398132591854",
+    "firebase_url": "https://newsit-25be5.firebaseio.com",
+    "project_id": "newsit-25be5",
+    "storage_bucket": "newsit-25be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398132591854:android:51101ed45b577227",
+        "android_client_info": {
+          "package_name": "com.example.thannathrnyuwasin.newit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398132591854-iujl2i00jn9rjabenvt7hpbs8c523bl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADujE7SjW3g2ImyDKjIX-yUcmuIIOmmrg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
